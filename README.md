@@ -2,32 +2,32 @@
 # Содержание
 - [Cuncurrency](#cuncurrency)
 - [RxJava](#rxjava)
-   - [Q1a](#q1a) 
-   - [Q2a](#q2a) 
-   - [Q3a](#q3a) 
-   - [Q4a](#q4a) 
-   - [Q5a](#q5a) 
-   - [Q6a](#q6a) 
-   - [Q7a](#q7a) 
-   - [Q8a](#q8a) 
-   - [Q9a](#q9a) 
-   - [Q10a](#q10a) 
-   - [Q11a](#q11a) 
-   - [Q12a](#q12a) 
-   - [Q13a](#q13a) 
-   - [Q14a](#q14a)
-   - [Q15a](#q15a) 
-   - [Q16a](#q16a) 
-   - [Q17a](#q17a) 
-   - [Q18a](#q18a) 
-   - [Q19a](#q19a) 
-   - [Q20a](#q20a) 
-   - [Q21a](#q21a)
-   - [Q22a](#q22a) 
-   - [Q23a](#q23a) 
-   - [Q24a](#q24a) 
-   - [Q25a](#q25a) 
-   - [Q26a](#q26a) 
+   - [Q1a](#q1a) Какие проблемы может решить многопоточность?
+   - [Q2a](#q2a) Какие проблемы может создать многопоточность?
+   - [Q3a](#q3a) С помощью чего организуется многопоточность?
+   - [Q4a](#q4a) Конструкторы Thread
+   - [Q5a](#q5a) Методы Thread для управления потоками
+   - [Q6a](#q6a) Thread Scheduler (планировщик потоков)
+   - [Q7a](#q7a) synchronized
+   - [Q8a](#q8a) Монитор (mutex)
+   - [Q9a](#q9a) Методы монитора
+   - [Q10a](#q10a) Состав пакета java.util.concurrent
+   - [Q11a](#q11a) Concurrent Collections
+   - [Q12a](#q12a) Synchronizers (синхронизаторы)
+   - [Q13a](#q13a) Executors
+   - [Q14a](#q14a) Какие пулы потоков может создавать Executors?
+   - [Q15a](#q15a) Lock
+   - [Q16a](#q16a) Методы Lock
+   - [Q17a](#q17a) Condition, ReadWriteLock, ReentrantLock
+   - [Q18a](#q18a) Плюсы и минусы Lock API
+   - [Q19a](#q19a) Атомарная операция
+   - [Q20a](#q20a) Atomics
+   - [Q21a](#q21a) AtomicInteger
+   - [Q22a](#q22a) Looper
+   - [Q23a](#q23a) Handler
+   - [Q24a](#q24a) Методы Handler
+   - [Q25a](#q25a) MessageQueue
+   - [Q26a](#q26a) Как взаимодействуют Looper, Handler и MessageQueue?
    - [Q27a](#q27a)
    - [Q28a](#q28a) 
    - [Q29a](#q29a) 
