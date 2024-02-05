@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnluOG4xdGlpeWxwYnFhM3Bjc2Z3dzN5eDhhaThza2N0Ym9wOGUxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zECASgodRMZ5QAbRao/giphy.gif" width="30px">Вопросы: Неделя 4!<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnluOG4xdGlpeWxwYnFhM3Bjc2Z3dzN5eDhhaThza2N0Ym9wOGUxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zECASgodRMZ5QAbRao/giphy.gif" width="30px">
+
 # Содержание
-- [Android](#android)
-- [Concurrency](#concurrency)
+# [Concurrency](#concurrency)
    - [Q1a](#q1a) Какие проблемы может решить многопоточность?
    - [Q2a](#q2a) Какие проблемы может создать многопоточность?
    - [Q3a](#q3a) С помощью чего организуется многопоточность?
@@ -34,7 +34,7 @@
    - [Q28a](#q28a) AsyncTask
    - [Q29a](#q29a) Какие методы AsyncTask необходимо переопределить?
 
-- [RxJava](#RxJava)
+# [RxJava](#RxJava)
    - [Q30a](#q30a) Реактивное программирование
      
    - [Q31a](#q31a) Поток данных
@@ -59,7 +59,7 @@
   
 
   
-# Android<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnluOG4xdGlpeWxwYnFhM3Bjc2Z3dzN5eDhhaThza2N0Ym9wOGUxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zECASgodRMZ5QAbRao/giphy.gif" width="30px">
+# Concurrency<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnluOG4xdGlpeWxwYnFhM3Bjc2Z3dzN5eDhhaThza2N0Ym9wOGUxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zECASgodRMZ5QAbRao/giphy.gif" width="30px">
 
 ### Q1a
 ### Какие проблемы может решить многопоточность?
